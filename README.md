@@ -1,6 +1,6 @@
 # Quiet Light+
 
-Tuned for personal preferences Quiet Light Theme.
+Tuned for personal preferences Quiet Light Theme for Visual Studio Code.
 
 ![screenshot](media/screenshot.png)
 
