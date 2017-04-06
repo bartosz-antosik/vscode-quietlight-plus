@@ -1,26 +1,26 @@
 {
-	"name": "quietlight-plus",
-	"displayName": "Quiet Light+ Theme",
-	"description": "Tuned for personal preferences Quiet Light Theme",
-	"version": "1.0.0",
-	"publisher": "ban",
-	"engines": {
-		"vscode": "^1.5.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"id": "quietLight-plus-theme",
-				"label": "Quiet Light+",
-				"uiTheme": "vs",
-				"path": "./themes/quietlight-plus.tmTheme"
-			}
-		]
-	},
-	"icon": "icon.png",
+    "name": "quietlight-plus",
+    "displayName": "Quiet Light+ Theme",
+    "description": "Tuned for personal preferences Quiet Light Theme",
+    "version": "1.0.2",
+    "publisher": "ban",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "quietLight-plus-theme",
+                "label": "Quiet Light+",
+                "uiTheme": "vs",
+                "path": "./themes/quietlight-plus.tmTheme"
+            }
+        ]
+    },
+    "icon": "icon.png",
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://github.com/bartosz-antosik/vscode-quietlight-plus/README.md",
     "repository": {
@@ -30,9 +30,9 @@
     "bugs": {
         "url": "https://github.com/bartosz-antosik/vscode-quietlight-plus/issues"
     },
-	"__metadata": {
-		"id": "8c1362f8-5032-4201-9794-9e389da41fff",
-		"publisherId": "177932fc-042d-4e07-a88f-6c5fe388a722",
-		"publisherDisplayName": "Bartosz Antosik"
-	}
+    "__metadata": {
+        "id": "8c1362f8-5032-4201-9794-9e389da41fff",
+        "publisherId": "177932fc-042d-4e07-a88f-6c5fe388a722",
+        "publisherDisplayName": "Bartosz Antosik"
+    }
 }
