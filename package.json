@@ -2,7 +2,7 @@
     "name": "quietlight-plus",
     "displayName": "Quiet Light+ Theme",
     "description": "Tuned for personal preferences Quiet Light Theme",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.12.0"
