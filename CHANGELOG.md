@@ -1,6 +1,6 @@
 # Change Log
 
-## **1.0.5** released on 5th May 2017
+## **1.0.6** released on 5th May 2017
 
 - **Change:** Adapted to new theme engine (requires VSCode version 1.12+).
 - **Change:** Screenshot updated to show Activity Bar & Explorer.
