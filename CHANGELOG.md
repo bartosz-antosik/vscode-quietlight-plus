@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.9** released on 23rd May 2017
+
+- **Change:** List selection colors tuned a bit.
+
 ## **1.0.7** released on 23rd May 2017
 
 - **Change:** Keywords provided in package metadata for easier reference.

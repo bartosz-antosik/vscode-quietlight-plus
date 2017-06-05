@@ -11,8 +11,10 @@
 		"activityBar.background": "#dddddd",
 		"activityBar.foreground": "#a0a0a0",
 		"activityBar.dropBackground": "#a0a0a0",
-		"activityBarBadge.background": "#007acc",
-		"activityBarBadge.foreground": "#ffffff"
+		"activityBarBadge.background": "#0078d7",
+		"activityBarBadge.foreground": "#ffffff",
+		"list.inactiveSelectionBackground": "#c8c8c8",
+		"list.activeSelectionBackground": "#0078d7"
 	},
 	"tokenColors": [
 		{
