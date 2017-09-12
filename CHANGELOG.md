@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.12** released on 12th September 2017
+
+- **Change:** Just new icon. ;-)
+
 ## **1.0.10** released on 6th June 2017
 
 - **Change:** List selection colors tuned a bit again for better visibility.
