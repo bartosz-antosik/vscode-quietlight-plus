@@ -1,6 +1,6 @@
 # Change Log
 
-## **1.0.12** released on 12th September 2017
+## **1.0.16** released on 12th September 2017
 
 - **Change:** Just new icon. ;-)
 
