@@ -2,7 +2,7 @@
     "name": "quietlight-plus",
     "displayName": "Quiet Light+ Theme",
     "description": "Tuned for personal preferences Quiet Light Theme",
-    "version": "1.0.10",
+    "version": "1.0.14",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.12.0"
@@ -25,6 +25,10 @@
         ]
     },
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#cccccc",
+        "theme": "light"
+    },
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://github.com/bartosz-antosik/vscode-quietlight-plus",
     "repository": {
