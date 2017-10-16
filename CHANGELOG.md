@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.26** released on 17th October 2017
+
+- **Change:** Screenshot update.
+
 ## **1.0.24** released on 15th September 2017
 
 - **Change:** Just new icon & documents polished a bit. ;-)
