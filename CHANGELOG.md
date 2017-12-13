@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.0.28** released on 13th December 2017
+
+- **Change:** GIT ignored files in tree view color corrected for better visibility.
+
 ## **1.0.26** released on 17th October 2017
 
 - **Change:** Screenshot update.
