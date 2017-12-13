@@ -15,7 +15,7 @@
 		"activityBarBadge.foreground": "#ffffff",
 		"list.inactiveSelectionBackground": "#d0d0d0",
 		"list.activeSelectionBackground": "#3399ff",
-		"gitDecoration.ignoredResourceForeground": "#c0c0c0"
+		"gitDecoration.ignoredResourceForeground": "#a0a0a0"
 	},
 	"tokenColors": [
 		{
