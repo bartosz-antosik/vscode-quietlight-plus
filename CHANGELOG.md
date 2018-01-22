@@ -1,8 +1,9 @@
 # Change Log
 
-## **1.0.30** released on 14th December 2017
+## **1.0.30** released on 22nd January 2018
 
 - **Change:** GIT ignored files in tree view color corrected for better visibility.
+- **Change:** Diff Editor changed text background color corrected for better visibility.
 - **Change:** Screenshot update.
 
 ## **1.0.26** released on 17th October 2017

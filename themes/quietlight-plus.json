@@ -5,6 +5,7 @@
 		"editor.foreground": "#333333",
 		"editor.selectionBackground": "#d0d0d0",
 		"editor.lineHighlightBackground": "#ffffcc",
+		"editor.findMatchBackground": "#fd7777",
 		"editorCursor.foreground": "#000000",
 		"editorWhitespace.foreground": "#eeeeee",
 		"editorLineNumber.foreground": "#d0d0d0",
