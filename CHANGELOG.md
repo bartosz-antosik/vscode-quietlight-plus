@@ -1,6 +1,6 @@
 # Change Log
 
-## **1.0.32** released on 21st August 2018
+## **1.0.34** released on 22nd August 2018
 
 - **Change:** Screenshot update.
 
