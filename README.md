@@ -10,7 +10,7 @@
 
 Search for *Quiet Light Plus* from the extension installer within VSCode or execute below line in the **command palette** (**F1**/**Ctrl+Shift+P**):
 ```
-ext install quietlight-plus
+ext install ban.quietlight-plus
 ```
 
 # Issues
