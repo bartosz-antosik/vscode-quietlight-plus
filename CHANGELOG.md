@@ -1,6 +1,6 @@
 # Change Log
 
-## **1.0.38** released on 21st December 2022
+## **1.0.40** released on 21st December 2022
 
 - **Change:** Badges in README updated according to Marketplace policy.
 
