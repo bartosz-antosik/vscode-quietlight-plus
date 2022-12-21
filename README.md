@@ -1,6 +1,9 @@
 # Tuned a Bit Quiet Light Theme for Visual Studio Code
 
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/ban.quietlight-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/ban.quietlight-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus) [![Rating](https://vsmarketplacebadge.apphb.com/rating/ban.quietlight-plus.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus) [![license](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/bartosz-antosik/vscode-spellright/blob/master/LICENSE.md)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ban.quietlight-plus.svg?style=flat-square)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ban.quietlight-plus.svg?style=flat-square)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/ban.quietlight-plus.svg?style=flat-square)
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 ## Screenshot
 
